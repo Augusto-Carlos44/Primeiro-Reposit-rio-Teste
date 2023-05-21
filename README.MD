@@ -3,3 +3,4 @@
 ## Salvando alterações no git
 * uso do comando git push 
 * uso do comando deu errado
+* uso vai dar certo
