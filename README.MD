@@ -3,3 +3,4 @@
 ## Salvando alterações no git
 * uso do comando git push
 * uso do comando git pull
+* uso real do comando git pull
